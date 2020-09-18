@@ -1,0 +1,1 @@
+docker build -t samtek --build-arg RBENV_VERSION=`rbenv version-name` .
